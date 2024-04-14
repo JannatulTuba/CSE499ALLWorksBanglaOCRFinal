@@ -1,4 +1,4 @@
-# Bangla OCR </br>
+# Bangla OCR <br>
 ### CSE499: Capstone Project</br>
 
 Note : All the Process we have implemented in windows and the instructions about how to run each code is given with a readme.txt file in each subfolder. 
